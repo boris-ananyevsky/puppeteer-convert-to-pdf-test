@@ -1,0 +1,7 @@
+{
+  "name": "html-to-pdf-converter",
+  "dependencies": {
+    "claudia-api-builder": "^4.1.1",
+    "puppeteer": "1.12.2"
+  }
+}
